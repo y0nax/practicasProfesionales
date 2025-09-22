@@ -4,8 +4,7 @@ Este repositorio contiene 8 prácticas de desarrollo móvil en Android.
 Cada práctica está en su propia carpeta con su respectivo proyecto y un README.md sencillo que explica cómo correrla.
 
 📂 Estructura
-
-
+```
 .
 ├─ practica-01/ # Hola Mundo con Compose
 ├─ practica-02/ # Lista de tareas básica
@@ -16,8 +15,7 @@ Cada práctica está en su propia carpeta con su respectivo proyecto y un README
 ├─ practica-07/ # Control de gastos con Room
 ├─ practica-08/ # CleanCityApp (final)
 └─ README.md # Este archivo
-
-
+```
 🚀 Cómo usar
 
 1. Clona el repo:
