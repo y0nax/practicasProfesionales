@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269290194305",
+    "project_id": "cleancity-7f934",
+    "storage_bucket": "cleancity-7f934.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269290194305:android:5f0773b854b8b2dc63d480",
+        "android_client_info": {
+          "package_name": "com.jonathan.cleancity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTAC7wbki6Q2rIJELOMArjR3o3s5hgppg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
