@@ -4,7 +4,7 @@ App que consulta el clima en una ciudad mediante una API externa y muestra el es
 
 ## Cómo correr
 
-1. Abre la carpeta **ClimaApp** en Android Studio.  
+1. Abre la carpeta **practica-03** en Android Studio.  
 2. Añade tu **API Key** en el archivo indicado (README del código).  
 3. Run.
 
