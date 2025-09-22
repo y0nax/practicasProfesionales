@@ -4,8 +4,8 @@ App de calculadora con botones numéricos y de operaciones. Usa Jetpack Compose 
 
 ## Cómo correr
 
-1. Abre la carpeta **CalculadoraApp** en Android Studio.  
-2. Run ▶ y prueba operaciones básicas.
+1. Abre la carpeta **practica-05** en Android Studio.  
+2. Run y prueba operaciones básicas.
 
 ## Requisitos
 
