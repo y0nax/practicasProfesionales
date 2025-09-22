@@ -5,7 +5,7 @@ Cada práctica está en su propia carpeta con su respectivo proyecto y un README
 
 📂 Estructura
 .
-├─ practica-01/   # Hola Mundo con Compose
+├─ practica-01/   # Hola Mundo con Compose\n
 ├─ practica-02/   # Lista de tareas básica
 ├─ practica-03/   # ClimaApp con API externa
 ├─ practica-04/   # GitHubApp
