@@ -4,7 +4,7 @@ App sencilla que permite agregar y eliminar tareas usando **Jetpack Compose** y 
 
 ## Cómo correr
 
-1. Abre la carpeta **ListaTareasApp** en Android Studio.  
+1. Abre la carpeta **practica-02** en Android Studio.  
 2. Ejecuta en un emulador/dispositivo.  
 3. Agrega tareas y pruébalas.
 
