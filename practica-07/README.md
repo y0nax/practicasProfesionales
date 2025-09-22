@@ -4,7 +4,7 @@ App de control de gastos con persistencia en **Room**. Permite filtrar por fecha
 
 ## Cómo correr
 
-1. Abre la carpeta **ExpenseTrackerApp** en Android Studio.  
+1. Abre la carpeta **practica-07** en Android Studio.  
 2. Ejecuta en un emulador/dispositivo.  
 
 ## Requisitos
