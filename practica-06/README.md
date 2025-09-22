@@ -4,7 +4,7 @@ App que reproduce archivos de audio en formato MP3 usando **MediaPlayer**. Muest
 
 ## Cómo correr
 
-1. Abre la carpeta **ReproductorMP3App** en Android Studio.  
+1. Abre la carpeta **practica-06** en Android Studio.  
 2. Ejecuta en un emulador/dispositivo con archivos MP3 disponibles.  
 
 ## Requisitos
